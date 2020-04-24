@@ -1,0 +1,23 @@
+{
+  "name": "mflowchart",
+  "version": "0.0.1",
+  "description": "a library to create diagrams,using canvas",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ygtzz/mflowchart.git"
+  },
+  "keywords": [
+    "diagrams",
+    "canvas"
+  ],
+  "author": "ygtzz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ygtzz/mflowchart/issues"
+  },
+  "homepage": "https://github.com/ygtzz/mflowchart#readme"
+}
